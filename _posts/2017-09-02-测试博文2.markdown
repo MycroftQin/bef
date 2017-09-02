@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "测试博文2"
-img: the_great_wall.jpg # Add image post (optional)
+img: indonesia.jpg # Add image post (optional)
 date: 2017-09-02 08:24:00 +0300
 description: 这是一篇测试博文
 tag: [Blogging, Text]
