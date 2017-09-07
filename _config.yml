@@ -8,13 +8,13 @@ url: "mycroft.ink" # the base hostname & protocol for your site, e.g. http://exa
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
 banner-title: Mycroft Qin的个人博客 # add banner title
-banner-desc: 本博客仍在测试阶段，英语文章来自模板。 # add banner description
+banner-desc: 本博客仍在测试阶段。 # add banner description
 
 # Author settings
 author-pic:  # your photo
 author-name: # your name
 about-author: # about author
-email:  mycroftqin97@outlook.com# your email
+email:   # your email
 phone:  # your pnone number
 website: https://mycroft.ink # you website
 
