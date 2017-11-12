@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "新龙之石  第四章"
+title: "新龙之石 - 第四章"
 img: himalayan.jpg # Add image post (optional)
 date: 2017-11-11 11:47:00 +0300
 description: 第四章
