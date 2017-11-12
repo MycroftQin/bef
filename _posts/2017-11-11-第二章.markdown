@@ -2,7 +2,7 @@
 layout: post
 title: "新龙之石 - 第二章"
 img: indonesia.jpg # Add image post (optional)
-date: 2017-11-11 20:47:00 +0300
+date: 2017-11-11 09:47:00 +0300
 description: 新龙之石 - 第二章
 tag: [Blogging, Text]
 ---
